@@ -1,0 +1,277 @@
+-- MySQL Administrator dump 1.4
+--
+-- ------------------------------------------------------
+-- Server version	5.5.16
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+
+--
+-- Create schema binuatan
+--
+
+CREATE DATABASE IF NOT EXISTS binuatan;
+USE binuatan;
+
+--
+-- Definition of table `agency`
+--
+
+DROP TABLE IF EXISTS `agency`;
+CREATE TABLE `agency` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `agency` varchar(45) NOT NULL,
+  `count` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `agency`
+--
+
+/*!40000 ALTER TABLE `agency` DISABLE KEYS */;
+INSERT INTO `agency` (`id`,`agency`,`count`) VALUES 
+ (2,'Maple','2'),
+ (3,'Sari Sari','1');
+/*!40000 ALTER TABLE `agency` ENABLE KEYS */;
+
+
+--
+-- Definition of table `allss`
+--
+
+DROP TABLE IF EXISTS `allss`;
+CREATE TABLE `allss` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `fulln` text NOT NULL,
+  `occ` varchar(45) NOT NULL,
+  `agency` varchar(45) NOT NULL,
+  `amount` float NOT NULL,
+  `share` float NOT NULL,
+  `indi` float NOT NULL,
+  `total` float NOT NULL,
+  `no` varchar(45) NOT NULL,
+  `date` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `allss`
+--
+
+/*!40000 ALTER TABLE `allss` DISABLE KEYS */;
+INSERT INTO `allss` (`id`,`fulln`,`occ`,`agency`,`amount`,`share`,`indi`,`total`,`no`,`date`) VALUES 
+ (6,'Marcelo,Redemple','TOURGUIDE','New agency',654,39.24,39.24,39.24,'1','25/03/2019'),
+ (7,'Marcelo,Redemple and Abin,Carl','DRIVER / TOURGUIDE','Maple',600,36,18,18,'2','25/03/2019'),
+ (8,'Marcelo,Redemple','TOURGUIDE','CORAZON',65,3.9,3.9,3.9,'1','25/03/2019');
+/*!40000 ALTER TABLE `allss` ENABLE KEYS */;
+
+
+--
+-- Definition of table `history`
+--
+
+DROP TABLE IF EXISTS `history`;
+CREATE TABLE `history` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  `event` varchar(45) NOT NULL,
+  `who` text NOT NULL,
+  `date` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=61 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `history`
+--
+
+/*!40000 ALTER TABLE `history` DISABLE KEYS */;
+INSERT INTO `history` (`id`,`name`,`event`,`who`,`date`) VALUES 
+ (53,'Evio ,Steven Kyle','ADD AMOUNT FROM ATTENDANCE','Abin,Carl','21/03/2019'),
+ (54,'Marcelo ,Redemple','VIEW / EDIT ACCOUNT','Steven Kyle,Evio','21/03/2019'),
+ (55,'Marcelo ,Redemple','ADD AMOUNT FROM ATTENDANCE','Marcelo,Redemple','25/03/2019'),
+ (56,'Marcelo ,Redemple','EDIT PERSONAL RECORD','Marcelo,Redemple','25/03/2019'),
+ (57,'Marcelo ,Redemple','DELETE PERSONAL RECORD','Marcelo,Redemple','25/03/2019'),
+ (58,'Marcelo ,Redemple','ADD AMOUNT FROM ATTENDANCE','Marcelo,Redemple','25/03/2019'),
+ (59,'Marcelo ,Redemple','ADD AMOUNT FROM ATTENDANCE','Marcelo,Redemple and Abin,Carl','25/03/2019'),
+ (60,'Marcelo ,Redemple','ADD AMOUNT FROM ATTENDANCE','Marcelo,Redemple','25/03/2019');
+/*!40000 ALTER TABLE `history` ENABLE KEYS */;
+
+
+--
+-- Definition of table `login`
+--
+
+DROP TABLE IF EXISTS `login`;
+CREATE TABLE `login` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `Administrator` varchar(45) NOT NULL,
+  `pass` varchar(45) NOT NULL,
+  `user` varchar(45) NOT NULL,
+  `fname` varchar(45) NOT NULL,
+  `lname` varchar(45) NOT NULL,
+  `contact` varchar(45) NOT NULL,
+  `secq` varchar(45) NOT NULL,
+  `ans` varchar(45) NOT NULL,
+  `intime` varchar(45) NOT NULL,
+  `outime` varchar(45) NOT NULL,
+  `status` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `login`
+--
+
+/*!40000 ALTER TABLE `login` DISABLE KEYS */;
+INSERT INTO `login` (`id`,`Administrator`,`pass`,`user`,`fname`,`lname`,`contact`,`secq`,`ans`,`intime`,`outime`,`status`) VALUES 
+ (1,'Admin','t','as','Redemple','Marcelo','09504671008','Who is my crush?','ggg','2019-03-26 11:50:30','2019-03-26 10:44:47','Active'),
+ (7,'User','aa','tt','Steven Kyle','Evio','0898722','What city where you born in?','ss','2019-03-26 10:44:51','2019-03-21 09:27:37','Active');
+/*!40000 ALTER TABLE `login` ENABLE KEYS */;
+
+
+--
+-- Definition of table `message`
+--
+
+DROP TABLE IF EXISTS `message`;
+CREATE TABLE `message` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `froms` varchar(45) NOT NULL,
+  `tos` varchar(45) NOT NULL,
+  `message` text NOT NULL,
+  `date` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `message`
+--
+
+/*!40000 ALTER TABLE `message` DISABLE KEYS */;
+INSERT INTO `message` (`id`,`froms`,`tos`,`message`,`date`) VALUES 
+ (1,'Marcelo ,Redemple','Annoncesment','QGVvgv','Thursday, 21 March 2019'),
+ (2,'Evio ,Steven Kyle','','','Wednesday, 20 March 2019'),
+ (3,'Evio ,Steven Kyle','Marcelo ,Redemple','Helooo','Wednesday, 20 March 2019');
+/*!40000 ALTER TABLE `message` ENABLE KEYS */;
+
+
+--
+-- Definition of table `new`
+--
+
+DROP TABLE IF EXISTS `new`;
+CREATE TABLE `new` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `fulln` text NOT NULL,
+  `occ` varchar(45) NOT NULL,
+  `agency` varchar(45) NOT NULL,
+  `Date` varchar(45) NOT NULL,
+  `no` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `new`
+--
+
+/*!40000 ALTER TABLE `new` DISABLE KEYS */;
+INSERT INTO `new` (`id`,`fulln`,`occ`,`agency`,`Date`,`no`) VALUES 
+ (1,'Abin,Carl','DRIVER','Maple','16/03/2019',1),
+ (6,'Tadique,Mark / Marcelo,Redemple / Abin,Carl','DRIVER / TOURGUIDE','Maple','25/03/2019',3),
+ (7,'Marcelo,Redemple','TOURGUIDE','Maple','25/03/2019',1),
+ (8,'Tadique,Mark','TOURGUIDE','Sari Sari','25/03/2019',1);
+/*!40000 ALTER TABLE `new` ENABLE KEYS */;
+
+
+--
+-- Definition of table `print`
+--
+
+DROP TABLE IF EXISTS `print`;
+CREATE TABLE `print` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `print`
+--
+
+/*!40000 ALTER TABLE `print` DISABLE KEYS */;
+/*!40000 ALTER TABLE `print` ENABLE KEYS */;
+
+
+--
+-- Definition of table `reminder`
+--
+
+DROP TABLE IF EXISTS `reminder`;
+CREATE TABLE `reminder` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  `text` text NOT NULL,
+  `date` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `reminder`
+--
+
+/*!40000 ALTER TABLE `reminder` DISABLE KEYS */;
+INSERT INTO `reminder` (`id`,`name`,`text`,`date`) VALUES 
+ (4,'d ,d','ADD ACCOUNT','Saturday, 16 March 2019'),
+ (5,'Marcelo ,Redemple','hasFGJGFAJSFAS','Saturday, 16 March 2019'),
+ (6,'Kyle ,Steven','Type your first reminder. . . .','Tuesday, 19 March 2019'),
+ (7,'Evio ,Steven Kyle','Type your first reminder. . . .','Tuesday, 19 March 2019');
+/*!40000 ALTER TABLE `reminder` ENABLE KEYS */;
+
+
+--
+-- Definition of table `summary`
+--
+
+DROP TABLE IF EXISTS `summary`;
+CREATE TABLE `summary` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `fulln` varchar(45) NOT NULL,
+  `occ` varchar(45) NOT NULL,
+  `agency` varchar(45) NOT NULL,
+  `amount` varchar(45) NOT NULL,
+  `qr` varchar(45) NOT NULL,
+  `gender` varchar(45) NOT NULL,
+  `date` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `summary`
+--
+
+/*!40000 ALTER TABLE `summary` DISABLE KEYS */;
+INSERT INTO `summary` (`id`,`fulln`,`occ`,`agency`,`amount`,`qr`,`gender`,`date`) VALUES 
+ (1,'Abin,Carl','DRIVER','Maple','18.00','000000001','MALE','2019-03-16 11:03:33'),
+ (2,'Marcelo,Redemple','TOURGUIDE','Maple','61.14','000000005','MALE','2019-03-25 08:54:40'),
+ (3,'Tadique,Mark','TOURGUIDE','Sari Sari','0','000000002','MALE','2019-03-25 09:23:22');
+/*!40000 ALTER TABLE `summary` ENABLE KEYS */;
+
+
+
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

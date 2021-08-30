@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A55144F8-A01A-4CE0-8F6F-E9459B516C30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TOURISTSPOT_DIRECTORY</RootNamespace>
+    <AssemblyName>TOURISTSPOT_DIRECTORY</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\My Visual\Other File\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsMySQL.cs" />
+    <Compile Include="ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN.Designer.cs">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CREATE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CREATE.Designer.cs">
+      <DependentUpon>CREATE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORGOT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORGOT.Designer.cs">
+      <DependentUpon>FORGOT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUEST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUEST.Designer.cs">
+      <DependentUpon>GUEST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="USER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER.Designer.cs">
+      <DependentUpon>USER.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADMIN.resx">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CREATE.resx">
+      <DependentUpon>CREATE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORGOT.resx">
+      <DependentUpon>FORGOT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUEST.resx">
+      <DependentUpon>GUEST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="USER.resx">
+      <DependentUpon>USER.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPC Seal_300dpi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new tourism logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-image-icon-4-1024x1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Us.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaaz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acasia canopy tree tunnel.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitlssed-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map-marker-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-3-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\female-2-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workers-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-28-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25399178_505172529858893_8202583696884985375_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44119736_689220374787440_5147964370969427968_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaadza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaaaz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-round-32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-round-128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-details-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-2-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-11-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\approve-32b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disapprove-32b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitaed-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untistled-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-5-32b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-5-24b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager-24 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-details-24 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-37-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conference-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tf.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

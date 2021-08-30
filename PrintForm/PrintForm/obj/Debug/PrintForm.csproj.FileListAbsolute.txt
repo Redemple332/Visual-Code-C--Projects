@@ -1,0 +1,66 @@
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\PrintForm.exe.config
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\rptName.rdlc
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\PrintForm.exe
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\PrintForm.pdb
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.csprojResolveAssemblyReference.cache
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.Form1.resources
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.Properties.Resources.resources
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.csproj.GenerateResource.Cache
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\RdlCompile.cache
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\RdlCompile.compiled
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.exe
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\obj\Debug\PrintForm.pdb
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\rptStud.rdlc
+c:\users\aclc\documents\visual studio 2013\Projects\PrintForm\PrintForm\bin\Debug\MySql.Data.dll
+E:\PrintForm\PrintForm\bin\Debug\PrintForm.exe.config
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.exe
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.pdb
+E:\PrintForm\PrintForm\bin\Debug\rptName.rdlc
+E:\PrintForm\PrintForm\bin\Debug\rptStud.rdlc
+E:\PrintForm\PrintForm\bin\Debug\PrintForm.exe
+E:\PrintForm\PrintForm\bin\Debug\PrintForm.pdb
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.csprojResolveAssemblyReference.cache
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.Form1.resources
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.Properties.Resources.resources
+E:\PrintForm\PrintForm\obj\Debug\PrintForm.csproj.GenerateResource.Cache
+E:\PrintForm\PrintForm\obj\Debug\RdlCompile.cache
+E:\PrintForm\PrintForm\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\PrintForm\PrintForm\bin\Debug\PrintForm.exe.config
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.exe
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.pdb
+C:\Users\user\Desktop\PrintForm\PrintForm\bin\Debug\rptName.rdlc
+C:\Users\user\Desktop\PrintForm\PrintForm\bin\Debug\rptStud.rdlc
+C:\Users\user\Desktop\PrintForm\PrintForm\bin\Debug\PrintForm.exe
+C:\Users\user\Desktop\PrintForm\PrintForm\bin\Debug\PrintForm.pdb
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.Form1.resources
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.Properties.Resources.resources
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\PrintForm.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\PrintForm\PrintForm\obj\Debug\RdlCompile.compiled
+C:\Users\Alex\Documents\PrintForm\PrintForm\bin\Debug\PrintForm.exe.config
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.exe
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.pdb
+C:\Users\Alex\Documents\PrintForm\PrintForm\bin\Debug\rptName.rdlc
+C:\Users\Alex\Documents\PrintForm\PrintForm\bin\Debug\rptStud.rdlc
+C:\Users\Alex\Documents\PrintForm\PrintForm\bin\Debug\PrintForm.exe
+C:\Users\Alex\Documents\PrintForm\PrintForm\bin\Debug\PrintForm.pdb
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.Form1.resources
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.Properties.Resources.resources
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\PrintForm.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\RdlCompile.cache
+C:\Users\Alex\Documents\PrintForm\PrintForm\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\bin\Debug\PrintForm.exe.config
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.exe
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.pdb
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\bin\Debug\rptStud.rdlc
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\bin\Debug\PrintForm.exe
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\bin\Debug\PrintForm.pdb
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.Form1.resources
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\bin\Debug\rptName.rdlc
+C:\Users\Redemple Marcelo\Desktop\USB\PrintForm\PrintForm\obj\Debug\PrintForm.csprojResolveAssemblyReference.cache

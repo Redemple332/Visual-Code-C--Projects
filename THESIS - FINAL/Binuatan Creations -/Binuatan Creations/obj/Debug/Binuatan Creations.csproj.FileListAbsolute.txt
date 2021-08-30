@@ -1,0 +1,203 @@
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\MySql.Data.dll
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\AForge.dll
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\AForge.Video.dll
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\zxing.dll
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\Binuatan Creations\Binuatan Creations\bin\Debug\zxing.presentation.dll
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations - Copy\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\Desktop\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+E:\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+E:\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+E:\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+E:\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+C:\Users\Alex\Documents\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.registration.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Report2.rdlc
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Report3.rdlc
+C:\Users\Redemple Marcelo\Desktop\New folder\Binuatan Creations -\Binuatan Creations\bin\Debug\Report4.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Report2.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Report3.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Report4.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\Desktop\THESIS\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.LOADING.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Report2.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Report3.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Report4.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\bin\Debug\MySql.Data.dll
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.LOADING.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - Copy\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.LOADING.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report2.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report3.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report4.rdlc
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\MySql.Data.dll
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe.config
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report1.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report2.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report3.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Report4.rdlc
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.exe
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\bin\Debug\Binuatan Creations.pdb
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Admin.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Creatacc.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.FORGOT.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.LOADING.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.login.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.Scanner.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan_Creations.USER.resources
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\Binuatan Creations.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.cache
+C:\Users\Redemple Marcelo\Desktop\THESIS - FINAL\Binuatan Creations -\Binuatan Creations\obj\Debug\RdlCompile.compiled

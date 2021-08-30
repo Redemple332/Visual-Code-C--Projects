@@ -1,0 +1,43 @@
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe.config
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.pdb
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csprojResolveAssemblyReference.cache
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Form1.resources
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Properties.Resources.resources
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csproj.GenerateResource.Cache
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.exe
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.pdb
+c:\users\aclc\documents\visual studio 2013\Projects\ProSys_alpha\ProSys_alpha\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe.config
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.exe
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.pdb
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.pdb
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Form1.resources
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.frmAddPic.resources
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Properties.Resources.resources
+C:\Users\User\Desktop\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csproj.GenerateResource.Cache
+D:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe.config
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.exe
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.pdb
+D:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe
+D:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.pdb
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csprojResolveAssemblyReference.cache
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Form1.resources
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.frmAddPic.resources
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Properties.Resources.resources
+D:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csproj.GenerateResource.Cache
+E:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe.config
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.exe
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.pdb
+E:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe
+E:\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.pdb
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csprojResolveAssemblyReference.cache
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Form1.resources
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.frmAddPic.resources
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.Properties.Resources.resources
+E:\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\My Visual\Project\ProSys_alpha\ProSys_alpha\bin\Debug\ProSys_alpha.exe.config
+C:\Users\Redemple Marcelo\My Visual\Project\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.exe
+C:\Users\Redemple Marcelo\My Visual\Project\ProSys_alpha\ProSys_alpha\obj\Debug\ProSys_alpha.pdb

@@ -1,0 +1,17 @@
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\bin\Debug\prosys_Marcelo.exe.config
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\bin\Debug\prosys_Marcelo.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\bin\Debug\prosys_Marcelo.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.csprojResolveAssemblyReference.cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.Properties.Resources.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.csproj.GenerateResource.Cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.CREATE.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\bin\Debug\MySql.Data.dll
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.LOGIN.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.ADMIN.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.USER.resources
+C:\Users\Redemple Marcelo\Documents\Visual Studio 2015\Projects\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.FORGOT.resources
+E:\prosys_Marcelo\prosys_Marcelo\bin\Debug\prosys_Marcelo.exe.config
+E:\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.exe
+E:\prosys_Marcelo\prosys_Marcelo\obj\Debug\prosys_Marcelo.pdb

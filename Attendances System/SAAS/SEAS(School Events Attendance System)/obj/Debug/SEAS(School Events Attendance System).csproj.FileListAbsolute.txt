@@ -1,0 +1,254 @@
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+c:\users\user\documents\visual studio 2015\Projects\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.MENU.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\MySql.Data.dll
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+F:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+D:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+E:\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SEAS(School Events Attendance System)\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\User\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+E:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+E:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+E:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+E:\SAAS\SEAS(School Events Attendance System)\bin\Debug\MySql.Data.dll
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+E:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+D:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+D:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+D:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+D:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+F:\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+F:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+F:\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\AForge.dll
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\AForge.Video.dll
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\zxing.dll
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\bin\Debug\zxing.presentation.dll
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\ACLC-LB1\Desktop\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\User\Documents\ALL FILES\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+D:\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\finalseas\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.ResolveComReference.cache
+E:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\Interop.WMPLib.dll
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\AxInterop.WMPLib.dll
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.ResolveComReference.cache
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+D:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\Interop.WMPLib.dll
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\AxInterop.WMPLib.dll
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.ResolveComReference.cache
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+D:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+D:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+D:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\Interop.WMPLib.dll
+D:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\AxInterop.WMPLib.dll
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+D:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+E:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+E:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+E:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\Interop.WMPLib.dll
+E:\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\AxInterop.WMPLib.dll
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+E:\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.ResolveComReference.cache
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\Redemple Marcelo\Desktop\152\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe.config
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.ResolveComReference.cache
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).exe
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).exe
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\bin\Debug\SEAS(School Events Attendance System).pdb
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.AddUser.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Addevent_Form.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Form1.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmAddUser.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.frmMENU.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Properties.Resources.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS_School_Events_Attendance_System_.Security.resources
+C:\Users\Redemple Marcelo\Desktop\Attendances System\SAAS\SEAS(School Events Attendance System)\obj\Debug\SEAS(School Events Attendance System).csproj.GenerateResource.Cache

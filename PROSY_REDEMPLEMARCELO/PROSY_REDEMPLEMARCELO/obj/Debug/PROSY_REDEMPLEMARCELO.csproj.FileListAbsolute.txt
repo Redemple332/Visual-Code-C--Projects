@@ -1,0 +1,31 @@
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe.config
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csprojResolveAssemblyReference.cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Properties.Resources.resources
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csproj.GenerateResource.Cache
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.exe
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.pdb
+c:\users\redemple marcelo\documents\visual studio 2015\Projects\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Form1.resources
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe.config
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.exe
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.pdb
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Form1.resources
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Properties.Resources.resources
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.USER.resources
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csproj.GenerateResource.Cache
+C:\Users\Redemple Marcelo\My Visual\Project\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Login.resources
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe.config
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.exe
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.pdb
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.exe
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\bin\Debug\PROSY_REDEMPLEMARCELO.pdb
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csprojResolveAssemblyReference.cache
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Form1.resources
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Login.resources
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.Properties.Resources.resources
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.USER.resources
+C:\Users\Redemple Marcelo\My Visual\PROSY_REDEMPLEMARCELO\PROSY_REDEMPLEMARCELO\obj\Debug\PROSY_REDEMPLEMARCELO.csproj.GenerateResource.Cache

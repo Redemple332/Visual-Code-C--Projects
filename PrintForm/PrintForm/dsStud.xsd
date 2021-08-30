@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStud" targetNamespace="http://tempuri.org/dsStud.xsd" xmlns:mstns="http://tempuri.org/dsStud.xsd" xmlns="http://tempuri.org/dsStud.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStud" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsStud" msprop:Generator_UserDSName="dsStud">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtStud" msprop:Generator_TableClassName="dtStudDataTable" msprop:Generator_TableVarName="tabledtStud" msprop:Generator_TablePropName="dtStud" msprop:Generator_RowDeletingName="dtStudRowDeleting" msprop:Generator_RowChangingName="dtStudRowChanging" msprop:Generator_RowEvHandlerName="dtStudRowChangeEventHandler" msprop:Generator_RowDeletedName="dtStudRowDeleted" msprop:Generator_UserTableName="dtStud" msprop:Generator_RowChangedName="dtStudRowChanged" msprop:Generator_RowEvArgName="dtStudRowChangeEvent" msprop:Generator_RowClassName="dtStudRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ln" msprop:Generator_ColumnVarNameInTable="columnln" msprop:Generator_ColumnPropNameInRow="ln" msprop:Generator_ColumnPropNameInTable="lnColumn" msprop:Generator_UserColumnName="ln" type="xs:string" minOccurs="0" />
+              <xs:element name="fn" msprop:Generator_ColumnVarNameInTable="columnfn" msprop:Generator_ColumnPropNameInRow="fn" msprop:Generator_ColumnPropNameInTable="fnColumn" msprop:Generator_UserColumnName="fn" type="xs:string" minOccurs="0" />
+              <xs:element name="strand" msprop:Generator_ColumnVarNameInTable="columnstrand" msprop:Generator_ColumnPropNameInRow="strand" msprop:Generator_ColumnPropNameInTable="strandColumn" msprop:Generator_UserColumnName="strand" type="xs:string" minOccurs="0" />
+              <xs:element name="grade" msprop:Generator_ColumnVarNameInTable="columngrade" msprop:Generator_ColumnPropNameInRow="grade" msprop:Generator_ColumnPropNameInTable="gradeColumn" msprop:Generator_UserColumnName="grade" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
